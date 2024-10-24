@@ -61,7 +61,7 @@ export default function PasterClone() {
       </CardContent>
       <CardFooter>
         <p className="text-sm text-muted-foreground">
-          Paste your text, click "Create Paste", and share the generated link.
+          Paste your text, click &quot;Create Paste&quot;, and share the generated link.
         </p>
       </CardFooter>
     </Card>
